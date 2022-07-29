@@ -32,7 +32,7 @@ body a {
   height: 100%;
   width: 100%;
   background-image: url(IMG.jpg);
-  
+  border-radius: 20px;
   background-size: cover;
   position: absolute;
   top: 0;
@@ -47,7 +47,7 @@ body a {
   height: 100%;
   width: 100%;
   background-image: url(m.jpg);
-  
+  border-radius: 25px;
   background-size: cover;
   position: absolute;
   top: 0;
@@ -60,13 +60,13 @@ body a {
   text-align: center;
 }
 .card-back h2 {
-  margin: 80% auto 35% auto;
+  margin: 70% auto 35% auto;
   font-size: 26px;
-  color: peachpuff;
+  color:#F7CAC9;
 }
 .card-back h2 span {
   font-size: 20px;
-  color: tan;
+  color: #F7CAC9;
 }
 .card-back a {
   height: 20px;
